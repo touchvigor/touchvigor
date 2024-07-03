@@ -1,4 +1,4 @@
-## Hi there 👋! My name is Victor Hugo, data analyst currently workin on TIM Brasil!
+## Hi there 👋! My name is Victor Hugo, data analyst currently working on TIM Brasil!
 
 <!--
 **touchvigor/touchvigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
